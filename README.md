@@ -1,5 +1,5 @@
-##### Name                      : AMD Ryzen 7 6800H with Radeon Graphics
-##### NumberOfCores             : 8
-##### NumberOfLogicalProcessors : 16
-##### L2CacheSize               : 4096
-##### L3CacheSize               : 16384
+# css314_12.11.2026
+NameSurname: Alinur Orynbassar
+Student ID: 230103374
+Lecture Group: 02-N
+Practice Group:06-P
